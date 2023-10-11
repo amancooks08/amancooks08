@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Amandeep, a Product Engineer at Swiggy, working on Microservices with SpringBoot, ReactJS and GRPC in Golang. I'm passionate about open source and love contributing to projects in my free time. I recently completed an internship at Josh Software Pvt. Ltd. where I worked as a backend developer in Golang. During my time there, I gained valuable experience in building scalable and efficient systems. I'm always looking for new opportunities to collaborate on open-source projects or work on challenging software projects. Feel free to reach out to me if you'd like to chat or collaborate on a project!
+Hi there! I'm Amandeep, was a Product Engineer at Swiggy, worked on Microservices with SpringBoot, ReactJS and GRPC in Golang. I'm passionate about open source and love contributing to projects in my free time. I recently completed an internship at Josh Software Pvt. Ltd. where I worked as a backend developer in Golang. During my time there, I gained valuable experience in building scalable and efficient systems. I'm always looking for new opportunities to collaborate on open-source projects or work on challenging software projects. Feel free to reach out to me if you'd like to chat or collaborate on a project!
 
 
 ## 🌐 Socials:
